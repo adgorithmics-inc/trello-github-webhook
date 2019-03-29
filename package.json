@@ -1,0 +1,21 @@
+{
+  "name": "@adgorithmics/trello-github",
+  "version": "1.0.0",
+  "description": "Automatically update Trello cards when opening / merging GitHub Pull Requests.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": [
+    "Adgorithmics Inc.",
+    "Lukas Reineke <lukas.reineke@protonmail.com>"
+  ],
+  "license": "MIT"
+}
